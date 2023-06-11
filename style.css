@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0;
+    
+
+}
+
+
+div{
+    
+    background-color: black;
+    height:50px;
+    color: white;
+    
+}
+
+   #color{
+      color:orange;
+      margin-right:20px ;
+      font-size:25px;
+      font-weight: 800;
+      
+   }
+
+   a{
+    margin-left:200px;
+    color:white;
+    text-decoration: underline ;
+   }
+
+   #input{
+    margin-left:50px;
+    padding-left:10px;
+    height: 20px;
+    margin-top:10px;
+   }
+
+   #change{
+    background-color: orange;
+    font-size: medium;
+    position: absolute;
+    right:100px;
+    top:10px;
+    
+   }
